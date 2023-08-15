@@ -5,3 +5,8 @@ A light version of the [Alfred](https://www.alfredapp.com) Nord theme from [Arti
 ## Screenshot
 
 ![screenshot](screenshot.png)
+
+## Installation
+
+- via Alfred Galery: just visit [this](https://www.alfredapp.com/extras/theme/GTs6SkwSdj/) page and tab "Open theme in Alfred"
+- manually: download the [alfredappearance file](Nord Light.alfredappearance) to your Mac and double click to install in Alfred.
