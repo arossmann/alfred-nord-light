@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#5C80ADFF",
+        "font" : "System Light",
+        "color" : "#7FA0C2FF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#85BFD1FF"
+      },
+      "backgroundSelected" : "#85BFD1FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#D7DDE9FF",
+        "font" : "System Light",
+        "color" : "#4B556AFF"
+      },
+      "iconPaddingHorizontal" : 12,
+      "roundness" : 0,
+      "paddingVertical" : 4,
+      "iconSize" : 30
+    },
+    "search" : {
+      "backgroundSelected" : "#B2D7FFFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 4,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#424B5EFF"
+      },
+      "background" : "#E4E8F0FF",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#D7DDE9FF",
+      "paddingHorizontal" : 0,
+      "width" : 550,
+      "borderPadding" : 4,
+      "borderColor" : "#D7DDE9FF",
+      "blur" : 40,
+      "roundness" : 4,
+      "paddingVertical" : 2
+    },
+    "credit" : "arossmann",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#EBEEF4FF",
+      "thickness" : 2
+    },
+    "name" : "Nord Light"
+  }
+}
